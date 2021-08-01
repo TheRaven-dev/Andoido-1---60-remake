@@ -1,0 +1,35 @@
+Welcome - And thank you for buying.
+
+I have designed this folder system in such a way that if you move any files, or rename any files - your going to run into trouble.
+
+
+
+
+Extract the Folder in the .rar into your WRobot\Profiles\Quester Folder.
+
+
+Correct Path should be -- WRobot\Profiles\Quester\1-60 REMAKE_Andoido
+
+
+
+To Start the Profile:
+
+1-60 Horde - REMAKE - 1 PROFILE_LAUNCHER.xml
+
+
+This is going to be your Main loader - however you CAN, load the file individually if you like.
+
+Each file will run, and complete. Once completed, it will then Re-Load the 1-60 Horde - REMAKE - 1 PROFILE_LAUNCHER.xml File, and move to the next Level Area.
+
+
+Same with Class Quests. Once a class quest is completed - it will load 1-60 Horde - REMAKE - 1 PROFILE_LAUNCHER.xml.
+
+
+
+Enjoy!
+
+Report any bugs to Andoido#0218
+
+DISCORD CHANNEL
+
+https://discord.gg/fudFNyc
