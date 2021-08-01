@@ -1,2 +1,2 @@
-# Andoido-s-Paid-Profiles-Compendium---1-60---70-Alliance-Horde-1-60-Horde-Alliance-REMAKE-s-x
+# Andoidos-Paid-Profiles-Compendium-1-60-70-Alliance-Horde-1-60-Horde-Alliance-REMAKE
 Freeware Release
